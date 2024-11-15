@@ -12,12 +12,12 @@ body {
     display: flex;
     align-items: center;
     background-color: green;
-    padding: 10px;
+    padding: 20px;
 }
 .school-logo {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
     margin-right: 25px;
     float: left;
 }
@@ -103,4 +103,3 @@ footer p {
     text-decoration: none;
 }
 style.css
-Displaying Hellena.html.
