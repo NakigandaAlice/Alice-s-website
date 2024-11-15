@@ -16,10 +16,10 @@ body {
 }
 .school-logo {
     width: 200px;
-    height: 200px;
-    border-radius: 100%;
-    margin-right: 25px;
-    float: left;
+    height: 150px;
+    border-radius: 200%;
+    margin-right: 35px;
+    float: center;
 }
 .topnav {
     color: black;
